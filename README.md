@@ -1,1 +1,1 @@
-testing
+An automatic merge is when it automatically folds in because each collaborator has done their part right, with spaces in between.
